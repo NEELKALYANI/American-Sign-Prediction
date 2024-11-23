@@ -1,4 +1,4 @@
-# American-Sign-Prediction
+# American-Sign-Language Prediction Model
 
 Hello All, I am sharing another project named American Sign Language Detection Model (TalkTogether) with you guys!!
 This project enables two-way communication between deaf and non-deaf person.
